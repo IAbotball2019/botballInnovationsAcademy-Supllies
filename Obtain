@@ -1,0 +1,17 @@
+#include <kipr/botball.h>
+
+int main()
+{
+    while((anolog( )<    )||(  ))    //veer until you see grey tape
+          {    //stop
+      if((         )&&(        ))    //stop line following on a black or grey tape
+         {           //veer back to the start
+             
+         }
+         else if((        )
+                 {
+
+
+                  printf("Hello World\n");
+                  return 0;
+                  }
